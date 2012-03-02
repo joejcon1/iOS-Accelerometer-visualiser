@@ -1,0 +1,289 @@
+TAccelerometer
+v7
+r0
+t315422154.060903
+cCheck dependencies
+cProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist Accelerometer-Info.plist
+cCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib
+cCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib
+cProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch.gch Accelerometer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/GraphView.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer normal i386
+cGenerateDSYMFile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+cTouch /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib
+c000000004D1A65410000000000004785
+t1293575489
+s18309
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Accelerometer_Prefix.pch
+c000000004C1CE75900000000000000C3
+t1276962649
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.h
+c000000004C1CE7590000000000000207
+t1276962649
+s519
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m
+c000000004C1CE7590000000000000AAD
+t1276962649
+s2733
+i"AccelerometerAppDelegate.h"
+i"AccelerometerViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.h
+c000000004D1B75110000000000000206
+t1293645073
+s518
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m
+c000000004D1CBE300000000000000A9D
+t1293729328
+s2717
+i"AccelerometerViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.h
+c000000004D19EBF30000000000000173
+t1293544435
+s371
+i<UIKit/UIKit.h>
+i"AccelerometerViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m
+c000000004D1CBE1F00000000000012E4
+t1293729311
+s4836
+i"GraphView.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib
+c000000004C1CE7590000000000004E71
+t1276962649
+s20081
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/Accelerometer.LinkFileList
+c000000004D1A16150000000000000298
+t1293555221
+s664
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o
+t1293729353
+s51364
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o
+t1293729353
+s49824
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/GraphView.o
+t1293729353
+s46244
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o
+t1293555224
+s6344
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app
+t1293729354
+s238
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM
+t1293729354
+s102
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+t1293729354
+s29508
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/AccelerometerViewController.nib
+t1293575491
+s891
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist
+t1293555221
+s615
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/MainWindow.nib
+t1293555222
+s1135
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/PkgInfo
+t1293555221
+s8
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m
+c000000004C1CE7590000000000000173
+t1276962649
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch.gch
+t1293555223
+s15453392
+
+NAccelerometer-Info.plist
+c000000004C1CE759000000000000038D
+t1276962649
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315422151#315422151#0(0"0(0#1#0"8623378912#0"0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315422151.310692
+e315422153.312822
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m315422151#315422153#0(0"0(0#0#93"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m8622791872#2302"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/include -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386 -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerAppDelegate.m -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315422151.311742
+e315422153.396425
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m: In function '-[AccelerometerViewController accelerometer:didAccelerate:]':
+o/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m:19: warning: passing argument 1 of 'insertObject:atIndex:' makes pointer from integer without a cast
+lSLF07#2@104"Compile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m315422151#315422153#0(371"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m: In function '-[AccelerometerViewController accelerometer:didAccelerate:]':/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m:19: warning: passing argument 1 of 'insertObject:atIndex:' makes pointer from integer without a cast1(22@87"Passing argument 1 of 'insertObject:atIndex:' makes pointer from integer without a cast315422153#173#198#0(6@96"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m315422128#19#0#19#0#0"0(0#0#96"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m8619783296#2308"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/include -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386 -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/AccelerometerViewController.m -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/GraphView.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315422153.313052
+e315422153.476681
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/GraphView.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m315422153#315422153#0(0"0(0#0#78"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m8618890880#2272"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/include -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386 -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Classes/GraphView.m -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/GraphView.o0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315248024.062943
+e315248024.242938
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m315248024#315248024#0(0"0(0#0#65"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m8604149600#2254"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/include -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386 -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/main.m -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib
+s315268291.521217
+e315268291.898688
+r1
+xCompileXIB
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib
+lSLF07#2@42"CompileXIB AccelerometerViewController.xib315268291#315268291#0(0"0(0#0#90"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib8665993088#670"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/AccelerometerViewController.nib /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib
+s315248021.982135
+e315248022.399444
+r1
+xCompileXIB
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315248021#315248022#0(0"0(0#0#73"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib8617304928#636"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/MainWindow.nib /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+s315422154.020464
+e315422154.057990
+r1
+xGenerateDSYMFile
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Accelerometer.app.dSYM build/Debug-iphonesimulator/Accelerometer.app/Accelerometer315422154#315422154#0(0"0(0#0#118"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer8620899584#461"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM0#
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer normal i386
+s315422153.476778
+e315422154.020342
+r1
+xLd
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+xnormal
+xi386
+lSLF07#2@123"Link /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer315422153#315422154#0(0"0(0#0#0"8623622624#1030"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -F/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -filelist /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/Accelerometer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer0#
+
+CProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist Accelerometer-Info.plist
+s315248021.975728
+e315248021.982046
+r1
+xProcessInfoPlistFile
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist
+xAccelerometer-Info.plist
+lSLF07#2@32"Process Accelerometer-Info.plist315248021#315248021#0(0"0(0#0#83"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Accelerometer-Info.plist8623581440#557"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Accelerometer-Info.plist -genpkginfo /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist0#
+
+CProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch.gch Accelerometer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315248022.466040
+e315248024.062669
+r1
+xProcessPCH
+x/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch.gch
+xAccelerometer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Accelerometer_Prefix.pch315248022#315248024#0(0"0(0#0#83"/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Accelerometer_Prefix.pch8628878336#2120"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/include -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386 -I/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources -c /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/Accelerometer_Prefix.pch -o /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-bgvyumnekbsyaqctdbslyynvzbex/Accelerometer_Prefix.pch.gch0#
+
+CTouch /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app
+s315422154.058078
+e315422154.060865
+r1
+xTouch
+x/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app
+lSLF07#2@110"Touch /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app315422154#315422154#0(0"0(0#0#0"8620657888#324"    cd /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app0#
+

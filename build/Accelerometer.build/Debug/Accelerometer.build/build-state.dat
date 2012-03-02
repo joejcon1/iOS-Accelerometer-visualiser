@@ -1,0 +1,56 @@
+TAccelerometer
+v7
+r1
+cCheck dependencies
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib
+c000000004C1CE7FD0000000000006AC0
+t1276962813
+s27328
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib
+c000000004C1CE7590000000000004E71
+t1276962649
+s20081
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app/Contents/Info.plist
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app/Contents/Resources/AccelerometerViewController.nib
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NAccelerometer-Info.plist
+c000000004C1CE759000000000000038D
+t1276962649
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315236445#315236445#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'315236445#18446744073709551615#0#0(1@0"0(0#1#0"8617949120#0"0#
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/AccelerometerViewController.xib
+r0
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app/Contents/Info.plist Accelerometer-Info.plist
+r0
+
+CTouch /Users/aboveaveragejoeconway/Documents/XCode/Accelerometer/build/Debug/Accelerometer.app
+r0
+
